@@ -1,0 +1,7 @@
+const productos = [
+    {
+        "id":"",
+        "NombreProducto":"",
+        
+    }
+]
